@@ -10,6 +10,6 @@ The instructor during the session was Mr.Shaurya Sinha(a Data Analyst at Jio). I
  www.shapeai.tech
  or follow SHAPEAI on:
 <li><a href="https://in.linkedin.com/company/shapeai">LinkedIn</a>
-<li><a href="https://www.instagram.com/shapeai/?hl=en">Instagram</a>
+<li><a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
 <li><a href="https://github.com/shapeai">GitHub</a>
